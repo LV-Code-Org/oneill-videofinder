@@ -9,3 +9,6 @@ Built as a Chromium extension. Steps to use:
 4. Click "Load Unpacked" and select the folder with the project files
 
 Once these steps are complete, the extension will be loaded into your browser.
+
+## Debugging
+If the browser complains about manifest version, delete manifest.json and rename oneill-manifestv2.json to "manifest.json".
